@@ -16,11 +16,11 @@ I build practical AI-powered products: from speech transcription and knowledge a
 
 | Project | What it does | Focus |
 | --- | --- | --- |
+| [**Academic Research Skills**](https://github.com/dubr1k/academic-research-skills) | An agent-skill toolkit for structured research, academic writing, review, revision, and publication workflows. | AI agents · Research workflows |
+| [**Education Agent Skills**](https://github.com/dubr1k/education-agent-skills) | A collection of evidence-based skills for AI agents that support teaching, learning, instructional design, and education workflows. | AI in education · Agent skills |
 | [**GigaAMGUI**](https://github.com/dubr1k/GigaAMGUI) | A complete interface for GigaAM-v3 transcription: desktop app, CLI, REST API, web UI, speaker diarization, and Docker deployment. | Speech AI · Python · APIs |
 | [**LaTeX → Word Formula Converter**](https://github.com/dubr1k/latex-docx-converter) | Turns raw LaTeX math in `.docx` files—including LLM-generated documents—into editable native Word equations (OMML). | Document automation · PyQt6 · Pandoc |
 | [**gigaam-v3-mlx**](https://github.com/dubr1k/gigaam-v3-mlx) | Offline Russian speech recognition for iPhone, iPad, and Mac, built around a native Swift and MLX runtime. | On-device AI · Speech technology |
-| [**Academic Research Skills**](https://github.com/dubr1k/academic-research-skills) | An agent-skill toolkit for structured research, academic writing, review, revision, and publication workflows. | AI agents · Research workflows |
-| [**lean-ctx**](https://github.com/dubr1k/lean-ctx) | A context layer for agentic systems that helps AI coding tools work with large projects more efficiently. | Developer tooling · AI agents |
 
 ---
 
