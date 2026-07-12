@@ -18,9 +18,9 @@ I build practical AI-powered products: from speech transcription and knowledge a
 | --- | --- | --- |
 | [**GigaAMGUI**](https://github.com/dubr1k/GigaAMGUI) | A complete interface for GigaAM-v3 transcription: desktop app, CLI, REST API, web UI, speaker diarization, and Docker deployment. | Speech AI · Python · APIs |
 | [**LaTeX → Word Formula Converter**](https://github.com/dubr1k/latex-docx-converter) | Turns raw LaTeX math in `.docx` files—including LLM-generated documents—into editable native Word equations (OMML). | Document automation · PyQt6 · Pandoc |
-| [**CyropIONbot**](https://github.com/dubr1k/cyropionbot) | A Telegram and MAX assistant for students with schedules, targeted news, LLM summaries, feedback, and administration tools. | EdTech · LLM integration · Automation |
-| [**OpenCode Config**](https://github.com/dubr1k/opencode-config) | A reusable set of AI coding-agent skills, specialist agents, and workflows for research, implementation, review, and verification. | AI agents · Developer experience |
-| [**llama.cpp Guide**](https://github.com/dubr1k/llamacpp_guide) | A practical guide to running, tuning, and troubleshooting local GGUF models across CPU and GPU platforms. | Local LLMs · Inference · Open source |
+| [**gigaam-v3-mlx**](https://github.com/dubr1k/gigaam-v3-mlx) | Offline Russian speech recognition for iPhone, iPad, and Mac, built around a native Swift and MLX runtime. | On-device AI · Speech technology |
+| [**Academic Research Skills**](https://github.com/dubr1k/academic-research-skills) | An agent-skill toolkit for structured research, academic writing, review, revision, and publication workflows. | AI agents · Research workflows |
+| [**lean-ctx**](https://github.com/dubr1k/lean-ctx) | A context layer for agentic systems that helps AI coding tools work with large projects more efficiently. | Developer tooling · AI agents |
 
 ---
 
@@ -30,7 +30,7 @@ I build practical AI-powered products: from speech transcription and knowledge a
 - **Speech and language technology** — transcription pipelines, diarization, and interfaces that make AI models accessible.
 - **Document intelligence** — converting AI-generated content into reliable, editable Office documents.
 - **AI-assisted development** — agent workflows, persistent project context, testing, and code-quality automation.
-- **Education technology** — tools that make information, schedules, and services easier for students to use.
+- **Research and knowledge workflows** — tools that help turn complex source material into useful, structured outputs.
 
 ---
 
@@ -57,7 +57,7 @@ I build practical AI-powered products: from speech transcription and knowledge a
 
 - Open-source tools for applied AI and local models
 - Speech, transcription, and knowledge-management products
-- Document-processing and academic productivity workflows
+- Document-processing and academic research workflows
 - Developer tooling that makes AI agents more dependable
 
 ---
