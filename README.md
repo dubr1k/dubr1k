@@ -2,9 +2,9 @@
 
 # Hi, I'm dubr1k 👋
 
-### Sociology · Applied AI · Document Intelligence · Developer Tooling
+### Sociology · Applied AI · Agentic Systems · Document Intelligence
 
-I'm a sociologist and applied AI practitioner working at the intersection of the social sciences, humanities, and engineering. I study the history of sociological theory and train AI systems for data analysis, document understanding, research, and knowledge work. I turn these systems into usable products with reproducible Docker deployments and user-friendly Vue.js interfaces.
+I'm a sociologist and applied AI practitioner working at the intersection of the social sciences, humanities, and engineering. I study the history of sociological theory, train AI systems for data analysis, document understanding, research, and knowledge work, and build end-to-end ReAct agents. I turn these systems into usable products with reproducible Docker deployments and user-friendly Vue.js interfaces.
 
 [![Profile views](https://komarev.com/ghpvc/?username=dubr1k&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dubr1k)
 
@@ -29,6 +29,7 @@ I'm a sociologist and applied AI practitioner working at the intersection of the
 - **Theoretical sociology** — the history and development of sociological theory, its concepts, schools, and intellectual traditions.
 - **Data analysis** — turning complex social, research, and product data into structured evidence and useful insights.
 - **Interdisciplinary AI** — training and applying AI at the intersection of social sciences, humanities, and technical disciplines.
+- **Agentic and ReAct systems** — end-to-end agents with reasoning–action loops, tool use, memory, planning, orchestration, and systematic evaluation.
 - **Applied LLM systems** — assistants, RAG-style workflows, model integrations, and useful automation.
 - **Local inference and model serving** — efficient local execution with llama.cpp and high-throughput serving with vLLM.
 - **OCR and document vision** — text and layout extraction with Tesseract, PaddleOCR, LightOnOCR, and vision-language models (VLMs).
@@ -57,6 +58,8 @@ I'm a sociologist and applied AI practitioner working at the intersection of the
 ![Sociological Theory](https://img.shields.io/badge/Sociological%20Theory-5A189A?style=for-the-badge&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0A9396?style=for-the-badge&logoColor=white)
 ![Interdisciplinary AI](https://img.shields.io/badge/Interdisciplinary%20AI-CA6702?style=for-the-badge&logoColor=white)
+![ReAct Agents](https://img.shields.io/badge/ReAct%20Agents-D00000?style=for-the-badge&logoColor=white)
+![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-DC2F02?style=for-the-badge&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logoColor=white)
@@ -78,6 +81,7 @@ I'm a sociologist and applied AI practitioner working at the intersection of the
 
 - Computational sociology, sociological theory, and data-driven research
 - AI tools for social sciences, humanities, and interdisciplinary scholarship
+- Production-grade ReAct agents and multi-agent systems
 - Open-source tools for applied AI and local models
 - OCR, document vision, and multimodal AI products
 - Speech, transcription, and knowledge-management products
