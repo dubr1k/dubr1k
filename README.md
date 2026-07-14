@@ -2,9 +2,9 @@
 
 # Hi, I'm dubr1k 👋
 
-### Applied AI · Speech Technology · Document Automation · Developer Tooling
+### Applied AI · OCR & Document Vision · Speech Technology · Developer Tooling
 
-I build practical AI-powered products: from speech transcription and knowledge assistants to document-processing tools and reliable workflows for AI coding agents.
+I build practical AI-powered products: from OCR and VLM-based document understanding to speech transcription, knowledge assistants, and reliable workflows for AI coding agents. I ship them as reproducible Docker services and user-friendly Vue.js interfaces.
 
 [![Profile views](https://komarev.com/ghpvc/?username=dubr1k&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dubr1k)
 
@@ -27,8 +27,10 @@ I build practical AI-powered products: from speech transcription and knowledge a
 ## 🔭 What I Work On
 
 - **Applied LLM systems** — assistants, RAG-style workflows, model integrations, and useful automation.
+- **OCR and document vision** — text and layout extraction with Tesseract, PaddleOCR, and vision-language models (VLMs).
 - **Speech and language technology** — transcription pipelines, diarization, and interfaces that make AI models accessible.
 - **Document intelligence** — converting AI-generated content into reliable, editable Office documents.
+- **Product delivery** — containerized services with Docker and responsive frontends built with Vue.js.
 - **AI-assisted development** — agent workflows, persistent project context, testing, and code-quality automation.
 - **Research and knowledge workflows** — tools that help turn complex source material into useful, structured outputs.
 
@@ -40,12 +42,16 @@ I build practical AI-powered products: from speech transcription and knowledge a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Areas of practice**
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logoColor=white)
+![VLMs](https://img.shields.io/badge/Vision--Language%20Models-8A2BE2?style=for-the-badge&logoColor=white)
 ![Speech%20AI](https://img.shields.io/badge/Speech%20AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![PyQt](https://img.shields.io/badge/Desktop%20GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -56,8 +62,10 @@ I build practical AI-powered products: from speech transcription and knowledge a
 ## 🤝 Open to Collaborate On
 
 - Open-source tools for applied AI and local models
+- OCR, document vision, and multimodal AI products
 - Speech, transcription, and knowledge-management products
 - Document-processing and academic research workflows
+- Dockerized services and Vue.js applications
 - Developer tooling that makes AI agents more dependable
 
 ---
