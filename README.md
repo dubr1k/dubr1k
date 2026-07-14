@@ -31,6 +31,7 @@ I build practical AI-powered products: from OCR and VLM-based document understan
 - **Speech and language technology** — transcription pipelines, diarization, and interfaces that make AI models accessible.
 - **Document intelligence** — converting AI-generated content into reliable, editable Office documents.
 - **Product delivery** — containerized services with Docker and responsive frontends built with Vue.js.
+- **Xray networking** — Xray-core configuration, policy-based routing, load balancing, and Observatory-driven outbound health checks.
 - **AI-assisted development** — agent workflows, persistent project context, testing, and code-quality automation.
 - **Research and knowledge workflows** — tools that help turn complex source material into useful, structured outputs.
 
@@ -53,6 +54,9 @@ I build practical AI-powered products: from OCR and VLM-based document understan
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logoColor=white)
 ![VLMs](https://img.shields.io/badge/Vision--Language%20Models-8A2BE2?style=for-the-badge&logoColor=white)
 ![Speech%20AI](https://img.shields.io/badge/Speech%20AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Xray-core](https://img.shields.io/badge/Xray--core-4A6CF7?style=for-the-badge&logoColor=white)
+![Routing](https://img.shields.io/badge/Policy--based%20Routing-1F6FEB?style=for-the-badge&logoColor=white)
+![Balancing](https://img.shields.io/badge/Balancers%20%26%20Observatory-6F42C1?style=for-the-badge&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![PyQt](https://img.shields.io/badge/Desktop%20GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -66,6 +70,7 @@ I build practical AI-powered products: from OCR and VLM-based document understan
 - Speech, transcription, and knowledge-management products
 - Document-processing and academic research workflows
 - Dockerized services and Vue.js applications
+- Xray-core routing, balancing, and resilient proxy infrastructure
 - Developer tooling that makes AI agents more dependable
 
 ---
