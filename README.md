@@ -27,7 +27,8 @@ I build practical AI-powered products: from OCR and VLM-based document understan
 ## 🔭 What I Work On
 
 - **Applied LLM systems** — assistants, RAG-style workflows, model integrations, and useful automation.
-- **OCR and document vision** — text and layout extraction with Tesseract, PaddleOCR, and vision-language models (VLMs).
+- **Local inference and model serving** — efficient local execution with llama.cpp and high-throughput serving with vLLM.
+- **OCR and document vision** — text and layout extraction with Tesseract, PaddleOCR, LightOnOCR, and vision-language models (VLMs).
 - **Speech and language technology** — transcription pipelines, diarization, and interfaces that make AI models accessible.
 - **Document intelligence** — converting AI-generated content into reliable, editable Office documents.
 - **Product delivery** — containerized services with Docker and responsive frontends built with Vue.js.
@@ -52,7 +53,10 @@ I build practical AI-powered products: from OCR and VLM-based document understan
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logoColor=white)
+![LightOnOCR](https://img.shields.io/badge/LightOnOCR-E85D75?style=for-the-badge&logoColor=white)
 ![VLMs](https://img.shields.io/badge/Vision--Language%20Models-8A2BE2?style=for-the-badge&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-111111?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-00A67E?style=for-the-badge&logoColor=white)
 ![Speech%20AI](https://img.shields.io/badge/Speech%20AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Xray-core](https://img.shields.io/badge/Xray--core-4A6CF7?style=for-the-badge&logoColor=white)
 ![Routing](https://img.shields.io/badge/Policy--based%20Routing-1F6FEB?style=for-the-badge&logoColor=white)
