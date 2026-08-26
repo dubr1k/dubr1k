@@ -18,6 +18,7 @@ I'm a sociologist and applied AI practitioner working at the intersection of the
 | --- | --- | --- |
 | [**Academic Research Skills**](https://github.com/dubr1k/academic-research-skills) | An agent-skill toolkit for structured research, academic writing, review, revision, and publication workflows. | AI agents · Research workflows |
 | [**Education Agent Skills**](https://github.com/dubr1k/education-agent-skills) | A collection of evidence-based skills for AI agents that support teaching, learning, instructional design, and education workflows. | AI in education · Agent skills |
+| [**Proxy Control**](https://github.com/dubr1k/proxy-control) | A secure control panel for MTProxy, NaiveProxy, and Mieru with transactional lifecycle management, traffic accounting, and outbound mTLS fleet orchestration. | Proxy infrastructure · Python · Docker |
 | [**GigaAMGUI**](https://github.com/dubr1k/GigaAMGUI) | A complete interface for GigaAM-v3 transcription: desktop app, CLI, REST API, web UI, speaker diarization, and Docker deployment. | Speech AI · Python · APIs |
 | [**LaTeX → Word Formula Converter**](https://github.com/dubr1k/latex-docx-converter) | Turns raw LaTeX math in `.docx` files—including LLM-generated documents—into editable native Word equations (OMML). | Document automation · PyQt6 · Pandoc |
 | [**MDtoWORD**](https://github.com/dubr1k/MDtoWORD) | A desktop application for converting Markdown documents into fully formatted Microsoft Word files, with batch processing and a PyQt6 interface. | Document automation · Python · PyQt6 |
