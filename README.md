@@ -1,3 +1,5 @@
+[English](https://github.com/dubr1k/dubr1k/blob/main/README.md) | [Русский](https://github.com/dubr1k/dubr1k/blob/main/README.ru.md)
+
 <div align="center">
 
 # Hi, I'm dubr1k 👋
@@ -97,3 +99,15 @@ I'm a sociologist and applied AI practitioner working at the intersection of the
 ## ✨ Approach
 
 I bridge sociological thinking, humanistic inquiry, and engineering practice. I care about turning capable models into tools people can actually use: clear interfaces, reproducible setup, practical documentation, and workflows that hold up outside a demo.
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub stats for dubr1k](https://github-readme-stats.vercel.app/api?username=dubr1k&show_icons=true&hide_border=true)](https://github.com/dubr1k)
+
+---
+
+## 📫 Contact
+
+Email: [sergey.dubrovskiyy@gmail.com](mailto:sergey.dubrovskiyy@gmail.com)
